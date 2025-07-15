@@ -1,0 +1,3 @@
+class About():
+    Nama = "imarotussm"
+    
